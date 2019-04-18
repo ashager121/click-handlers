@@ -2,8 +2,6 @@
 
 For this activity, you will be creating an interactive web page that gets updated or modified when various buttons are clicked. 
 
-Begin by cloning [this](https://gitlab.com/kenzie-academy/se/fe/getting-started-with-javascript/s_click-handlers) repository. 
-
 If you open the `global.js` file in your web browser, you will see three sections corosponding to the three sections in `index.html`.
 
 In the browser, clicking on the "blue" and "gray" buttons in section 1 will change the color of the square. The other buttons on the page don't do anything ...yet.
